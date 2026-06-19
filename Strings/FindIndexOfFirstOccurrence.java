@@ -1,3 +1,11 @@
+/*
+LeetCode 27 - Remove Element
+
+Question:
+Given an integer array nums and an integer val,
+remove all occurrences of val in-place and return
+the number of elements not equal to val.
+*/
 class FindIndexOfFirstOccurrence {
     public int strStr(String haystack, String needle) {
             if(haystack.length()<needle.length()){

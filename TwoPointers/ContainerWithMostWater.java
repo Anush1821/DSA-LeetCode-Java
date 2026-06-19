@@ -9,7 +9,7 @@ Space Complexity: O(1)
 
 import java.util.Scanner;
 
-class Solution {
+class ContainerWithMostWater {
     public static int maxArea(int[] height) {
        int max = Integer.MIN_VALUE;
         int left=0;

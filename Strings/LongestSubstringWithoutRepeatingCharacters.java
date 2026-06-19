@@ -1,6 +1,13 @@
+/*
+LeetCode 3 - Longest Substring Without Repeating Characters
+
+Question:
+Given a string s, find the length of the longest
+substring without repeating characters.
+*/
 
 import java.util.Scanner;
-class Solution {
+class LongestSubstringWithoutRepeatingCharacters {
     public static int lengthOfLongestSubstring(String s) {
         String em="";
         int count=0;
